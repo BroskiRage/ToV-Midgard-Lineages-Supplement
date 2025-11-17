@@ -1,0 +1,8 @@
+2025/11/17-01:42:50.392 6b58 Recovering log #56
+2025/11/17-01:42:50.399 6b58 Delete type=0 #56
+2025/11/17-01:42:50.400 6b58 Delete type=3 #54
+2025/11/17-01:43:25.278 51dc Level-0 table #61: started
+2025/11/17-01:43:25.279 51dc Level-0 table #61: 0 bytes OK
+2025/11/17-01:43:25.282 51dc Delete type=0 #59
+2025/11/17-01:43:25.283 51dc Manual compaction at level-0 from '!folders!4EmbvuTToOPJVkgI' @ 72057594037927935 : 1 .. '!items!yy2tV5oceQadx0FG' @ 0 : 0; will stop at (end)
+2025/11/17-01:43:25.283 51dc Manual compaction at level-1 from '!folders!4EmbvuTToOPJVkgI' @ 72057594037927935 : 1 .. '!items!yy2tV5oceQadx0FG' @ 0 : 0; will stop at (end)
