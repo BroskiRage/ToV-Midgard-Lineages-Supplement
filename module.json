@@ -25,6 +25,17 @@
       "flags": {}
     }
   ],
+  "packFolders": [
+        {
+            "name": "Midgard Supplement",
+            "sorting": "m",
+            "color": "#2d5281",
+            "packs": [
+                "midgard-lineages-heritages"
+            ],
+            "folders": []
+        }
+    ],
   "relationships": {
     "systems": [
       {
