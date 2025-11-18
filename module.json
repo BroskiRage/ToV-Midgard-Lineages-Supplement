@@ -1,9 +1,9 @@
 {
   "id": "midgard-lineages-and-heritages",
   "title": "Midgard Lineages & Heritages",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest": "https://github.com/broskirage/ToV-Midgard-Lineages-Supplement/releases/latest/download/module.json",
-  "download": "https://github.com/broskirage/ToV-Midgard-Lineages-Supplement/releases/download/1.0.0/module.zip",
+  "download": "https://github.com/broskirage/ToV-Midgard-Lineages-Supplement/releases/download/1.1.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -13,9 +13,9 @@
   },
   "packs": [
     {
-      "name": "midgard-lineages-heritages",
-      "label": "Midgard Lineages & Heritages",
-      "path": "packs/midgard-lineages-heritages",
+      "name": "midgard-lineages",
+      "label": "Midgard Lineages",
+      "path": "packs/midgard-lineages",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -25,13 +25,13 @@
       "flags": {}
     }
   ],
-  "packFolders": [
+    "packFolders": [
         {
             "name": "Midgard Supplement",
             "sorting": "m",
-            "color": "#2d5281",
+            "color": "#a03f27",
             "packs": [
-                "midgard-lineages-heritages"
+                "midgard-lineages"
             ],
             "folders": []
         }
